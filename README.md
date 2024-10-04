@@ -84,5 +84,5 @@ Includes tests for error scenarios (e.g., network disconnections).
 Validates interaction between agent components (e.g., configuration updates, upload handling).
 
 
-## Thank you, Vinove, for providing us with this incredible opportunity to deepen our understanding of these concepts 
+## Thank you, Vinove Software & Services Pvt. Ltd., for providing us with this incredible opportunity to deepen our understanding of these concepts
 
